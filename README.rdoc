@@ -2,5 +2,5 @@
 
 Hub for Web developers.
 
-Common place for the developers and employers where employers get to know the skills and experiance of the developers. 
-(Integrated with Stripe for the recruiters to have a premium membership to contact the developers directly.)
+Common place for the developers and enterpreneurs where premium members get to know the skills and experiance of the developers. 
+(Integrated with Stripe for the enterpreneurs to have a premium membership to contact the developers directly.)

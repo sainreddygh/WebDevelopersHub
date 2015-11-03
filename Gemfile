@@ -45,3 +45,6 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+gem 'bootstrap-sass', '3.3.1'
+
+gem 'font-awesome-sass', '4.2.0'
